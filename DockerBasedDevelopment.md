@@ -44,8 +44,12 @@ If you docker ```rm -v my_container```, *if the 2nd container above still exists
  **7. References**
 
 7.1 [Building good Docker images](http://jonathan.bergknoff.com/journal/building-good-docker-images)
+
 7.2 [Docker Explained](https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images)
+
 7.3 [Docker Container42](http://container42.com/)
+
+7.4 [A better Dev/Test Experience with Docker](https://medium.com/aws-activate-startup-blog/a-better-dev-test-experience-docker-and-aws-291da5ab1238)
  
 
 
