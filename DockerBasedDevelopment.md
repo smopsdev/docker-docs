@@ -50,6 +50,8 @@ If you docker ```rm -v my_container```, *if the 2nd container above still exists
 7.3 [Docker Container42](http://container42.com/)
 
 7.4 [A better Dev/Test Experience with Docker](https://medium.com/aws-activate-startup-blog/a-better-dev-test-experience-docker-and-aws-291da5ab1238)
+
+7.5 [Big cheat sheet](http://bigocheatsheet.com/#comments)
  
 
 
