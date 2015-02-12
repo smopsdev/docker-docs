@@ -153,4 +153,6 @@ Projects providing container clusters for microservice approaches
     CoreOS: Linux for Massive Server Deployments (added 25. Jul. 2014)
 
 References
+
 1. [Docker Notes ](http://www.nkode.io/2014/08/24/valuable-docker-links.html)
+2. [Awesome Docker Rosources](http://getawesomeness.com/get/docker)
