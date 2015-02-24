@@ -156,3 +156,4 @@ References
 
 1. [Docker Notes ](http://www.nkode.io/2014/08/24/valuable-docker-links.html)
 2. [Awesome Docker Rosources](http://getawesomeness.com/get/docker)
+3. [Docker Desktops](https://blog.jessfraz.com/posts/docker-containers-on-the-desktop.html)
