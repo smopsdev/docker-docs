@@ -22,8 +22,16 @@ RUN export uid=1000 gid=1000 && \
 USER developer
 ENV HOME /home/developer
 CMD /usr/bin/firefox
+
+docker build -t firefox . it and run the container with:
+
+docker run -ti --rm \
+       -e DISPLAY=$DISPLAY \
+       -v /tmp/.X11-unix:/tmp/.X11-unix \
+       firefox
 ```
 
+If all goes well you should see Firefox running from within a Docker container.
 
 > Goal is to be able to run GUI apps running inside a docker container. Eventually we will create a complete
 > java development environment inside a container.
