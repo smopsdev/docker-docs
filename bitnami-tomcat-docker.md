@@ -102,3 +102,5 @@ To stop the container running our tomcat stack we can send the SIGTERM signal to
 
 root@vm:~# docker stop <container ID>
 
+#####References
+[Bitnami DockerImages](http://recursivedigressions.blogspot.com/2014/11/building-bitnami-tomcat-image-using.html)
