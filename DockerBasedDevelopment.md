@@ -52,7 +52,8 @@ If you docker ```rm -v my_container```, *if the 2nd container above still exists
 7.4 [A better Dev/Test Experience with Docker](https://medium.com/aws-activate-startup-blog/a-better-dev-test-experience-docker-and-aws-291da5ab1238)
 
 7.5 [Big cheat sheet](http://bigocheatsheet.com/#comments)
- 
+
+7.6 [A Docker environment in 24 hours](https://blog.relateiq.com/a-docker-dev-environment-in-24-hours-part-1-of-2/) 
 
 
 
